@@ -1,2 +1,2 @@
 # growlTest
-Growl test process
+Growl test code
